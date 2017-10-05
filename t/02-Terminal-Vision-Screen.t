@@ -1,0 +1,3 @@
+role Terminal::Vision::Screen
+{
+}
